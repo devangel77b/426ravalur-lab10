@@ -1,0 +1,5 @@
+1. This is a review of the manuscript "Non-destructive evaluation of conductive materials using voltage mapping" by Stevens, Gorelczenko, Cacciarelli, Kedharnath, Prabhu, Dumalagan, Avalur, and Heller. I recommend rejection; the manuscript is incomplete and portions appear sourced from an uncredited AI.
+
+2. Major portions of the experimental methods (sections 3.1-3.3) as well as the results (6.4) and discussion (sections 7.1 8.3 and 9) are bulleted lists that appear to be direct output of a LLM.
+
+3. No sources are given for anything, not the equations etc. and no literature is cited. Data are given in inches (!) in a few tables, and the only plot is a 1D transect along the centerline where the key difference is that the voltage in an area with no electrodes was 0. Despite the title, no mapping was attempted.
